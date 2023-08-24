@@ -1,4 +1,4 @@
-## OmniAI is a powerful AI model powered by OpenAI and Replicate!
+## OmniAI is a powerful AI model powered by OpenAI and Replicate
 
 ![Screenshot 2023-08-05 at 00-26-24 OmniAI](https://github.com/nipun221/ai-saas/assets/98182168/2229b0be-2da7-4a69-8410-c1dae33730b9)
 
